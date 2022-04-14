@@ -1,7 +1,7 @@
 # Weather App With React JS
 ![alt text](https://user-images.githubusercontent.com/15000127/163341419-5825d6b4-508e-4fb5-8470-5ecea66534fb.png)
 
-This project is designed with BOOTSTRAP & REACT JS .
+This project is designed with Bootstrap 4 & ReactJS .
 ### `npm install`
 
 Install the requied node modules
